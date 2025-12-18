@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>gz-jetty</name>
+  <name>gz-kura</name>
   <version>1.0.0</version>
-  <description>Gazebo Jetty Metapackage</description>
+  <description>Gazebo Kura Metapackage</description>
   <maintainer email="addisu@openrobotics.org">Addisu Z. Taddese</maintainer>
   <license>Apache License 2.0</license>
-  <url type="website">https://github.com/gazebosim/gz-jetty</url>
+  <url type="website">https://github.com/gazebosim/gz-kura</url>
 
   <buildtool_depend>cmake</buildtool_depend>
 
