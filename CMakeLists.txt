@@ -1,9 +1,9 @@
-cmake_minimum_required(VERSION 3.10.2 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.22.1 FATAL_ERROR)
 
 #============================================================================
 # Initialize the project
 #============================================================================
-project(gz-jetty VERSION 1.0.0)
+project(gz-kura VERSION 1.0.0)
 
 #============================================================================
 # Find gz-cmake
@@ -14,9 +14,9 @@ find_package(gz-cmake REQUIRED)
 #============================================================================
 # Configure the project
 #============================================================================
-gz_configure_project(VERSION_SUFFIX)
+gz_configure_project(VERSION_SUFFIX pre1)
 
-# all list of jetty packages
+# all list of kura packages
 
 gz_find_package(gz-common REQUIRED)
 gz_find_package(gz-fuel_tools REQUIRED)

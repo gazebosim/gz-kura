@@ -1,11 +1,3 @@
-# Gazebo Jetty Release Notes
+# Gazebo Kura Release Notes
 
-## New Features
-
-## Bug Fixes
-
-## Breaking Changes
-
-## Documentation
-
-
+Please visit <https://gazebosim.org/docs/kura/release_notes>

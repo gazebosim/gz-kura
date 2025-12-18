@@ -1,6 +1,6 @@
-# Gazebo Jetty Collection
+# Gazebo Kura Collection
 
-The Jetty collection is a set of Gazebo libraries compatible with
+The Kura collection is a set of Gazebo libraries compatible with
 each other.
 
 Gazebo brings a fresh approach to simulation with a complete toolbox
